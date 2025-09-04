@@ -5,9 +5,7 @@ But... why? After Twitter changed ownership and the community spread across Blue
 
 Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reederapp.com/)
 
-# RSS Feeds
-
-| Source) |
+| Source |
 |--------|
 | [any.run](https://feeds.feedburner.com/anyrun) |
 | [Bleeping Computer (news)](https://www.bleepingcomputer.com/feed/) |
