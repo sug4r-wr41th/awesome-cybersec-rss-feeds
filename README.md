@@ -33,3 +33,4 @@ Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reedera
 | [TrendMicro (research)](https://newsroom.trendmicro.com/news-releases?pagetemplate=rss&category=787) |
 | [Troy Hunt](https://www.troyhunt.com/rss/) |
 | [Ultimate Windows Security](https://www.ultimatewindowssecurity.com/blog/default.aspx?m=rss) |
+| [WatchGuard PSIRT](https://www.watchguard.com/wgrd-psirt/advisories.xml) |
