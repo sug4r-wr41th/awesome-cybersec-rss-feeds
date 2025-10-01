@@ -19,7 +19,8 @@ Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reedera
 | [Have I been pwned? (latest breaches)](http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches) |
 | [Have I been pwned? (latest pastes)](http://feeds.feedburner.com/HaveIBeenPwnedLatestPastes) |
 | [Microsoft Security Response Center (MSRC)](https://msrc.microsoft.com/blog/feed) |
-| [Nozomi Networks](https://security.nozominetworks.com/rss.xml) |
+| [Nozomi Networks (security bulletins)](https://security.nozominetworks.com/rss.xml) |
+| [Nozomi Networks (service status)](https://status.nozominetworks.io/history.rss) |
 | [ProofPoint](https://www.proofpoint.com/us/rss-feeds/blog-feed.xml) |
 | [RansomFeed (immediato)](https://www.ransomfeed.it/rss.php) |
 | [RansomFeed (completo)](https://www.ransomfeed.it/rss-complete.php) |
