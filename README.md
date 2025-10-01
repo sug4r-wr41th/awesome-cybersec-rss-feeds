@@ -8,6 +8,7 @@ Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reedera
 | Source |
 |--------|
 | [any.run](https://feeds.feedburner.com/anyrun) |
+| [AWS](https://aws.amazon.com/security/security-bulletins/rss/feed/) |
 | [Bleeping Computer (news)](https://www.bleepingcomputer.com/feed/) |
 | [Bleeping Computer (downloads)](https://www.bleepingcomputer.com/download/feed/) |
 | [Bleeping Computer (guides)](https://www.bleepingcomputer.com/virus-removal/feed/) |
@@ -35,3 +36,4 @@ Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reedera
 | [Troy Hunt](https://www.troyhunt.com/rss/) |
 | [Ultimate Windows Security](https://www.ultimatewindowssecurity.com/blog/default.aspx?m=rss) |
 | [WatchGuard PSIRT](https://www.watchguard.com/wgrd-psirt/advisories.xml) |
+
