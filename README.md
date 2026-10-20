@@ -13,6 +13,7 @@ Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reedera
 | [Bleeping Computer (downloads)](https://www.bleepingcomputer.com/download/feed/) |
 | [Bleeping Computer (guides)](https://www.bleepingcomputer.com/virus-removal/feed/) |
 | [CrowdStrike](https://www.crowdstrike.com/en-us/blog/feed) |
+| [ICHI (Internet Cyber Health Index)](https://ichi.global/api/alerts) |
 | [Intruder's cvemon](https://cvemon.intruder.io/rss/cvetrends/latest) |
 | [FortiGuard Labs (out-break alerts)](https://filestore.fortinet.com/fortiguard/rss/outbreakalert.xml) |
 | [FortiGuard Labs (threat signal)](https://filestore.fortinet.com/fortiguard/rss/threatsignal.xml) |
