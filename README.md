@@ -30,6 +30,7 @@ Suggested (not sponsored) RSS client for Apple devices: [Reeder](https://reedera
 | [Sophos (threat research)](https://news.sophos.com/en-us/category/threat-research/feed) |
 | [Sophos (AI research) ](https://news.sophos.com/en-us/category/ai-research/feed) |
 | [The Hacker News](https://feeds.feedburner.com/TheHackersNews) |
+| [Joho no Todai - Security (Japanese)](https://joho-todai.com/tag/security/rss/) |
 | [Google TAG (Threat Analysis Group)](https://blog.google/threat-analysis-group/rss) |
 | [TrendMicro (threats)](https://newsroom.trendmicro.com/cyberthreat?pagetemplate=rss) |
 | [TrendMicro (research)](https://newsroom.trendmicro.com/news-releases?pagetemplate=rss&category=787) |
